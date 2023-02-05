@@ -40,12 +40,7 @@ Create a repo then clone it and open into Visual Studio Code
 
 Deploy onto the web using GitHub Pages
 
-## Authors
 
-👤 ** Mohamed Aachour**
-
-- GitHub: [@AACHOURMOHAMED](https://github.com/AACHOURMOHAMED)
-- LinkedIn: [Mohamed Aachour](https://linkedin.com/in/mohamed-aachour-25405b215)
 
 ## 🤝 Contributing
 
